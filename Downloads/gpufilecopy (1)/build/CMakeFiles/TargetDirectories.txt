@@ -1,3 +1,0 @@
-C:/Users/shikh/OneDrive/Documents/cuda_mpi_folder_copy/build/CMakeFiles/copy.dir
-C:/Users/shikh/OneDrive/Documents/cuda_mpi_folder_copy/build/CMakeFiles/edit_cache.dir
-C:/Users/shikh/OneDrive/Documents/cuda_mpi_folder_copy/build/CMakeFiles/rebuild_cache.dir
